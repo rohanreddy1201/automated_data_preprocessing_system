@@ -1,0 +1,23 @@
+# Ignore Visual Studio and VSCode related files
+.vs/
+*.vsidx
+*.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.pyd
+*.pdb
+.pytest_cache/
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+
+# Ignore other common system and project files
+.DS_Store
+Thumbs.db
